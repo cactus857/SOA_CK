@@ -1,0 +1,8 @@
+﻿config.env
+.env
+node_modules/
+.vs/
+.vscode/
+.parcel-cache/
+*.log
+package-lock.json
